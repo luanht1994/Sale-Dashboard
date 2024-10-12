@@ -1,7 +1,7 @@
 
 # Sale-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYzBiOWQ1MzgtOTE2Ni00NzVjLWEwYWItMTM3ZjdjYzZjMWM2IiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D
+### [Sale Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzBiOWQ1MzgtOTE2Ni00NzVjLWEwYWItMTM3ZjdjYzZjMWM2IiwidCI6ImFmMWYzNzUzLTM5MjUtNGU2Zi05NDliLTk3YzAwNzMyMDgwMyIsImMiOjEwfQ%3D%3D)
 
 ## Problem Statement
 
